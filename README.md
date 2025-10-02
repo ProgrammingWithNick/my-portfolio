@@ -97,7 +97,7 @@ This project is built using modern web technologies:
   <img src="public/images/screenshot.png" alt="Hero Section" width="80%">
   <p>Hero Section with Interactive 3D Elements</p>
   <br/>
-  <img src="public/images/project1.png" alt="Projects Display" width="80%">
+  <img>
   <p>Projects Showcase with Dynamic Lighting</p>
 </div>
 
