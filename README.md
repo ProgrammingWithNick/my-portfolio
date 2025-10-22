@@ -40,7 +40,7 @@
 
 Welcome to the **Immersive 3D Portfolio** - a cutting-edge personal website that transcends traditional portfolio design. By leveraging the power of Three.js and React, this project creates an engaging user experience with interactive 3D scenes, smooth camera transitions, and captivating animations.
 
-Whether you're a developer, designer, or creative professional, this portfolio template offers an extraordinary way to showcase your skills, projects, and personality in a three-dimensional digital space that leaves a lasting impression.
+Whether you're a developer, designer, or creative professional, this portfolio template offers an extraordinary way to showcase your skills, projects, and personality in a three-dimensional digital space that leaves a lasting impression....
 
 ## <a name="live-demo">🚀 Live Demo</a>
 
